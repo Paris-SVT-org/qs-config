@@ -57,7 +57,7 @@
 
 
 	<dataSource jndiName="jdbc/Messenger"  jdbcDriverRef="ease.db2jcc4">
-  <properties.db2.jcc serverName="ec2-52-87-90-56.compute-1.amazonaws.com"
+  <properties.db2.jcc serverName="ec2-54-161-142-53.compute-1.amazonaws.com"
                       portNumber="60000"
                       databaseName="MSGRDB"
                       sslConnection="false"
